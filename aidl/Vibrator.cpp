@@ -44,6 +44,7 @@
 #include <sys/ioctl.h>
 #include <sys/epoll.h>
 #include <sys/poll.h>
+#include <fcntl.h>
 #include <thread>
 
 #include "include/Vibrator.h"
